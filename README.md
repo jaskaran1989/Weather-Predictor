@@ -1,4 +1,9 @@
-Weather-Checker
-===============
+#Weather-predictor
 
-Local weather checker. Project to practice HTML, CSS, Bootstrap, Jquery, Javascript, PHP, and AJAX skills.
+This is basic weather predictor developed by using technologies which scrapes 3 day weather forecase from http://www.weather-forecast.com/locations usng PHP and then display nicely on screen
+
+* PHP
+* HTML
+* CSS
+* AJAX
+* Bootstrap
